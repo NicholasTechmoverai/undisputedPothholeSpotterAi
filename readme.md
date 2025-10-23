@@ -45,7 +45,12 @@ source .venv/bin/activate
 # 3️⃣ Install dependencies
 pip install -r requirements.txt
 
-# 4️⃣ Run the application
+
+# 4️⃣ download the model
+download the trained model from the link below and add it to the project main folder
+https://drive.google.com/file/d/1o1B5cTTnR9FsGYgdYZtFEc7Dje8qSK9N/view?usp=sharing
+
+# 5 Run the application
 python app.py
 
 #######################################
