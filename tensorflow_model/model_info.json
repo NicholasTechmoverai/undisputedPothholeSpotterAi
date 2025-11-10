@@ -1,0 +1,14 @@
+{
+  "num_classes": 5,
+  "model_type": "fasterrcnn_resnet50_fpn",
+  "input_shape": [
+    3,
+    "dynamic",
+    "dynamic"
+  ],
+  "outputs": [
+    "boxes",
+    "scores",
+    "labels"
+  ]
+}

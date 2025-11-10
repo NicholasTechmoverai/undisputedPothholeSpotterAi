@@ -39,7 +39,7 @@ python -m venv .venv
 .venv\Scripts\Activate
 
 # 👉 Linux / macOS
-python3 -m venv .venv
+python -m venv .venv
 source .venv/bin/activate
 
 # 3️⃣ Install dependencies

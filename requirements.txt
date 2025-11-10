@@ -10,3 +10,7 @@ scikit-learn
 pycocotools
 albumentations
 pygame
+tensorflow 
+tf2onnx 
+onnx 
+onnx-tf
